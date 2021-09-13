@@ -9,8 +9,6 @@ form{
     height: 300px;
     width: 250px;
     margin: auto;
-    
-  
 }
 
 input{
@@ -21,15 +19,12 @@ input{
 
 .box1{
     text-align: center;
-    
 }
 
 header{
     background-color: white;
     padding: 10px;
     border-bottom-style: outset;
-    
-    
 }
 
 button{
